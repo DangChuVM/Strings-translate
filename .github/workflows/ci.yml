@@ -34,7 +34,7 @@ jobs:
 
       - name: Run Python script
         run: |
-          python run.py
+          python run.py target_langs vi
 
       - name: Prepare out/ directory and copy XMLs
         run: |
