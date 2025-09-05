@@ -1138,7 +1138,7 @@ bán tại)\"*/*\"Thì \"hình ảnh/*\"Thì \"âm thanh/*\"Thì \"chữ/*\""</s
     <string name="design_library_admob_title_interstitial">Quảng cáo kẽ</string>
     <string name="design_library_admob_widget_setup_first">Để sử dụng tiện ích này, trước tiên bạn phải thiết lập cài đặt trong trình quản lý thư viện.</string>
     <string name="design_library_appcompat_description">Kích hoạt Thư viện ứng dụng Compat sẽ cho phép bạn thêm bố cục ngăn kéo và nút hành động nổi vào các hoạt động.</string>
-    <string name="design_library_material_3_description">Kích hoạt Vật liệu 3 sẽ cho phép các nguyên tắc mới nhất mà bạn thiết kế trong ứng dụng của mình, cung cấp giao diện hiện đại và hấp dẫn hơn với các thành phần có thể tùy chỉnh và các tùy chọn theo chủ đề nâng cao.</string>
+    <string name="design_library_material_3_description">Kích hoạt vật liệu 3 sẽ cho phép các nguyên tắc mới nhất mà bạn thiết kế trong ứng dụng của mình, cung cấp giao diện hiện đại và hấp dẫn hơn với các thành phần có thể tùy chỉnh và các tùy chọn theo chủ đề nâng cao.</string>
     <string name="design_library_material_3_enable_warning">Xin lưu ý rằng việc cho phép thư viện này có thể có tác động đến thiết kế tổng thể và sự xuất hiện của ứng dụng, đặc biệt nếu nó là một dự án cũ hơn. Nó khuyến nghị để xác minh các thay đổi và đảm bảo khả năng tương thích với thiết lập hiện tại của bạn trước khi kích hoạt.</string>
     <string name="design_library_material_3_theme_mode_description">Chọn chế độ chủ đề cho phép bạn cá nhân hóa ứng dụng\'S ngoại hình, ghi chú:\n1. Chọn chủ đề `daynight` cho trải nghiệm thích ứng tự động chuyển đổi giữa` light` và `dark` dựa trên cài đặt hệ thống\n2. Cài đặt này cũng ảnh hưởng đến EditorView, ví dụ: với Bật ngày đêm, màu sắc của trình chỉnh sửa sẽ theo hệ thống\'chủ đề S và chuyển đổi giữa ánh sáng và tối cho phù hợp.</string>
     <string name="design_library_dynamic_colors_description">Kích hoạt màu động cho phép ứng dụng của bạn điều chỉnh bảng màu của nó dựa trên người dùng\'S Tùy chọn hệ thống, tạo trải nghiệm liền mạch và được cá nhân hóa phản ánh người dùng\'S đã chọn chủ đề và ngoại hình.</string>
@@ -1275,7 +1275,7 @@ Bạn phải nhập khóa API để vận hành bản đồ bình thường. "</
     <string name="design_run_title_ready_to_build">Sẵn sàng xây dựng</string>
     <string name="design_cancel_build_title">Hủy xây dựng?</string>
     <string name="design_cancel_build_desc">Bạn có chắc là bạn muốn hủy tòa nhà? Điều này có thể mất một thời gian.</string>
-    <string name="design_cancel_build_btn_stop">Dừng xây dựng</string>
+    <string name="design_cancel_build_btn_stop">Ngừng xây dựng</string>
     <string name="design_cancel_build_btn_continue">Tiếp tục xây dựng</string>
     <string name="design_tab_title_component">Thành phần</string>
     <string name="design_tab_title_event">Sự kiện</string>
